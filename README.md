@@ -8,5 +8,11 @@ The learning agent was developed with Q-learning algorithm.
   <img src="https://cloud.githubusercontent.com/assets/6472330/14228256/ad0c2e4e-f907-11e5-96dd-cc876e25f359.PNG" />
 </p>
 
+### Features
+* UNITY 5
+* Q LEARNING
 
-Project created in unity 5.
+#### Developers
+* André Santos
+* Ruben Santos
+* Pedro Vito
